@@ -10,6 +10,7 @@ public interface SplashContract {
     interface View extends IBaseView {
         void showWelcomeIcon();
         void navigateToMainScreen();
+        void showSplashScreen();
     }
 
     interface Presenter extends IBasePresenter<View> {

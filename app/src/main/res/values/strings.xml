@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">UserRandom</string>
     <string name="activity_splash_welcome_des">Welcome</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="random">Random</string>
+    <string name="count">Count:</string>
 </resources>
